@@ -1,0 +1,15 @@
+{
+  "name": "faro-web-sdk-issue-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "@grafana/faro-web-sdk": "^1.0.2"
+  }
+}
